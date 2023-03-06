@@ -1,0 +1,1 @@
+import{a as e,o,b as s,h as c}from"./entry.d9247041.js";const t=""+new URL("hazini-logo-white-landscape.f5618cc5.svg",import.meta.url).href,a={},n={class:"flex space-x-2"},r=c("img",{src:t},null,-1),_=[r];function i(l,d){return o(),s("div",n,_)}const h=e(a,[["render",i]]);export{h as default};
